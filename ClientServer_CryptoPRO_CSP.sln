@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Client_CryptoPRO_CSP", "Client_CryptoPRO_CSP\Client_CryptoPRO_CSP.vcxproj", "{770585B4-8746-4FEC-A5E1-13CA29ECCC49}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Server_CryptoPRO_CSP", "Server_CryptoPRO_CSP\Server_CryptoPRO_CSP.vcxproj", "{8584C053-D01F-47A6-B509-42B08E1471DF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lib_CryptoPRO_CSP", "Lib_CryptoPRO_CSP\Lib_CryptoPRO_CSP.vcxproj", "{691CDADD-F590-4EF0-93E6-E21E0CD737EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B9B53EB9-A43B-4E2B-81DB-723B6EBEC1E3}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{770585B4-8746-4FEC-A5E1-13CA29ECCC49}.Debug|x64.ActiveCfg = Debug|x64
+		{770585B4-8746-4FEC-A5E1-13CA29ECCC49}.Debug|x64.Build.0 = Debug|x64
+		{770585B4-8746-4FEC-A5E1-13CA29ECCC49}.Debug|x86.ActiveCfg = Debug|Win32
+		{770585B4-8746-4FEC-A5E1-13CA29ECCC49}.Debug|x86.Build.0 = Debug|Win32
+		{770585B4-8746-4FEC-A5E1-13CA29ECCC49}.Release|x64.ActiveCfg = Release|x64
+		{770585B4-8746-4FEC-A5E1-13CA29ECCC49}.Release|x64.Build.0 = Release|x64
+		{770585B4-8746-4FEC-A5E1-13CA29ECCC49}.Release|x86.ActiveCfg = Release|Win32
+		{770585B4-8746-4FEC-A5E1-13CA29ECCC49}.Release|x86.Build.0 = Release|Win32
+		{8584C053-D01F-47A6-B509-42B08E1471DF}.Debug|x64.ActiveCfg = Debug|x64
+		{8584C053-D01F-47A6-B509-42B08E1471DF}.Debug|x64.Build.0 = Debug|x64
+		{8584C053-D01F-47A6-B509-42B08E1471DF}.Debug|x86.ActiveCfg = Debug|Win32
+		{8584C053-D01F-47A6-B509-42B08E1471DF}.Debug|x86.Build.0 = Debug|Win32
+		{8584C053-D01F-47A6-B509-42B08E1471DF}.Release|x64.ActiveCfg = Release|x64
+		{8584C053-D01F-47A6-B509-42B08E1471DF}.Release|x64.Build.0 = Release|x64
+		{8584C053-D01F-47A6-B509-42B08E1471DF}.Release|x86.ActiveCfg = Release|Win32
+		{8584C053-D01F-47A6-B509-42B08E1471DF}.Release|x86.Build.0 = Release|Win32
+		{691CDADD-F590-4EF0-93E6-E21E0CD737EF}.Debug|x64.ActiveCfg = Debug|x64
+		{691CDADD-F590-4EF0-93E6-E21E0CD737EF}.Debug|x64.Build.0 = Debug|x64
+		{691CDADD-F590-4EF0-93E6-E21E0CD737EF}.Debug|x86.ActiveCfg = Debug|Win32
+		{691CDADD-F590-4EF0-93E6-E21E0CD737EF}.Debug|x86.Build.0 = Debug|Win32
+		{691CDADD-F590-4EF0-93E6-E21E0CD737EF}.Release|x64.ActiveCfg = Release|x64
+		{691CDADD-F590-4EF0-93E6-E21E0CD737EF}.Release|x64.Build.0 = Release|x64
+		{691CDADD-F590-4EF0-93E6-E21E0CD737EF}.Release|x86.ActiveCfg = Release|Win32
+		{691CDADD-F590-4EF0-93E6-E21E0CD737EF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {506AADF0-5614-4FC7-B7BE-8058841C8E71}
+	EndGlobalSection
+EndGlobal
